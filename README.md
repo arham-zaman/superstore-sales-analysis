@@ -19,3 +19,6 @@ Analysis of retail sales data using SQL and Excel, uncovering business insights 
 
 ## Dashboard Preview
 ![Superstore Dashboard](Dashboard.png)
+
+## About Me
+Fresh CS graduate, currently building practical skills in SQL, Excel, and data analysis. Open to entry-level Data Analyst internships/roles — feel free to connect on [LinkedIn](https://www.linkedin.com/in/arham-zaman/).
