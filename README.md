@@ -18,4 +18,4 @@ Analysis of retail sales data using SQL and Excel, uncovering business insights 
 - `dashboard.png` — Excel dashboard visualizing key metrics
 
 ## Dashboard Preview
-![Superstore Dashboard](Sales Dashboard.png)
+![Superstore Dashboard](Dashboard.png)
